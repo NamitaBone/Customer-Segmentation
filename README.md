@@ -134,15 +134,9 @@ kneed
 
 **Namita Bone**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/NamitaBone
 
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-##  License
-
-This project is licensed under the MIT License.
+LinkedIn: https://www.linkedin.com/in/namita-bone-0a0925374/
 
 ---
 
